@@ -1,5 +1,5 @@
-CART_HOST: cart.devops84.shop
-USER_HOST: user.devops84.shop
-RABBITMQ_HOST: rabbitmq.devops84.shop
+CART_HOST: cart.backend-{{ env }}.devops84.shop
+USER_HOST: user.backend-{{ env }}.devops84.shop
+RABBITMQ_HOST: rabbitmq-{{ env }}.devops84.shop
 RABBITMQ_USER: roboshop
 RABBITMQ_PASSWORD: roboshop123
