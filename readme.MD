@@ -31,7 +31,7 @@ This repository demonstrates **end-to-end automation** of the Roboshop 🛍️ e
 
 ## 🧪 How to Deploy
 
-### Step 1: Provision AWS Infrastructure (Terraform)
+### Provision AWS Infrastructure (Terraform)
 ```bash
 cd terraform
 terraform init
